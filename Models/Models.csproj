@@ -5,11 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DevExpress.Xpo" Version="20.1.4" />
+    <Compile Remove="main\**" />
+    <EmbeddedResource Remove="main\**" />
+    <None Remove="main\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="main\" />
+    <PackageReference Include="DevExpress.Xpo" Version="20.1.4" />
   </ItemGroup>
 
 </Project>
