@@ -2216,11 +2216,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSpace\\GitHub\\NetMovieApi\\Movie\\Models\\Models.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\GitHub\\NetflixApi\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "D:\\WorkSpace\\GitHub\\NetMovieApi\\Movie\\Models\\Models.csproj",
+      "projectPath": "D:\\WorkSpace\\GitHub\\NetflixApi\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\OMAR\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpace\\GitHub\\NetMovieApi\\Movie\\Models\\obj\\",
+      "outputPath": "D:\\WorkSpace\\GitHub\\NetflixApi\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

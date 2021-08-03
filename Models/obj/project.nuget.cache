@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kbtA5ldNR+z0L4w4iJ2Qbm1Qvl062m4AK7Al6+EkTDwgdz7w7qwpEDofsV2MDp/dMfnKXcFhxGrs+tzkwmoCzA==",
+  "dgSpecHash": "MBSuwD6IhihtBKAdTyBqhWY1h6E6yOGAS3aks8nL5gZozjfV1kfnMHea0xyhHOThJLNpB48NgJRbwZM7ye09DQ==",
   "success": true,
-  "projectFilePath": "D:\\WorkSpace\\GitHub\\NetMovieApi\\Movie\\Models\\Models.csproj",
+  "projectFilePath": "D:\\WorkSpace\\GitHub\\NetflixApi\\Models\\Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OMAR\\.nuget\\packages\\devexpress.data\\20.1.4\\devexpress.data.20.1.4.nupkg.sha512",
     "C:\\Users\\OMAR\\.nuget\\packages\\devexpress.xpo\\20.1.4\\devexpress.xpo.20.1.4.nupkg.sha512",

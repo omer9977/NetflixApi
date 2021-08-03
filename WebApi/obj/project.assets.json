@@ -7155,11 +7155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSpace\\GitHub\\NetMovieApi\\Movie\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\GitHub\\NetflixApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\WorkSpace\\GitHub\\NetMovieApi\\Movie\\WebApi\\WebApi.csproj",
+      "projectPath": "D:\\WorkSpace\\GitHub\\NetflixApi\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\OMAR\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpace\\GitHub\\NetMovieApi\\Movie\\WebApi\\obj\\",
+      "outputPath": "D:\\WorkSpace\\GitHub\\NetflixApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -7184,11 +7184,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\WorkSpace\\GitHub\\NetMovieApi\\Movie\\Business\\Business.csproj": {
-              "projectPath": "D:\\WorkSpace\\GitHub\\NetMovieApi\\Movie\\Business\\Business.csproj"
+            "D:\\WorkSpace\\GitHub\\NetflixApi\\Business\\Business.csproj": {
+              "projectPath": "D:\\WorkSpace\\GitHub\\NetflixApi\\Business\\Business.csproj"
             },
-            "D:\\WorkSpace\\GitHub\\NetMovieApi\\Movie\\Models\\Models.csproj": {
-              "projectPath": "D:\\WorkSpace\\GitHub\\NetMovieApi\\Movie\\Models\\Models.csproj"
+            "D:\\WorkSpace\\GitHub\\NetflixApi\\Models\\Models.csproj": {
+              "projectPath": "D:\\WorkSpace\\GitHub\\NetflixApi\\Models\\Models.csproj"
             }
           }
         }
