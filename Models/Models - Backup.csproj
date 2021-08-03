@@ -5,17 +5,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="main\**" />
-    <EmbeddedResource Remove="main\**" />
-    <None Remove="main\**" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="DevExpress.Xpo" Version="20.1.4" />
   </ItemGroup>
 
   <ItemGroup>
+<<<<<<< Updated upstream
     <Folder Include="group\" />
+=======
+    <Folder Include="asdf\" />
+>>>>>>> Stashed changes
   </ItemGroup>
 
 </Project>
